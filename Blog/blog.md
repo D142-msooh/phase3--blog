@@ -66,6 +66,25 @@ Many beginners want to jump straight into frontend development, but CLI applicat
 
 Building a console application strengthens the foundation before moving to more advanced areas like Django, Flask, or web APIs.
 
+### Best Practices I Learned in This Phase
+
+Phase 3 also taught me practical software habits:
+
+✔ Write clean, readable code~
+
+Break your functions into small pieces and name variables clearly.
+
+✔ Keep user experience simple
+
+Even a CLI app should feel organized and friendly.
+
+✔ Save data properly
+
+Storing logs and user progress makes the system feel real and useful.
+
+✔ Test your features
+
+Every function should be checked to ensure it behaves correctly.
 
 ### The Future: Smarter, Simpler, More Connected
 
