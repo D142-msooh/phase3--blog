@@ -70,7 +70,7 @@ Building a console application strengthens the foundation before moving to more 
 
 Phase 3 also taught me practical software habits:
 
-✔ Write clean, readable code~
+✔ Write clean, readable code
 
 Break your functions into small pieces and name variables clearly.
 
@@ -90,7 +90,7 @@ Every function should be checked to ensure it behaves correctly.
 
 Technology is moving toward:
 
-- More automation
+More automation
 
 - AI-powered personalization
 
@@ -104,7 +104,7 @@ Learning how to build small recommendation systems today prepares developers for
 
 ### Conclusion
 
-This project taught me how real software works behind the scenes.
+This project taught me how real software works behind the scenes
 how data flows, how systems think, and how meaningful recommendations are created.
 
 - As I continue through the phases, I’m excited to explore:
